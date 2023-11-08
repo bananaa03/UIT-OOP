@@ -1,0 +1,4 @@
+﻿  Bai01.cpp
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai01\Bai01\Bai01.cpp(89,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai01\Bai01\Bai01.cpp(167,12): warning C4129: 'H': unrecognized character escape sequence
+  Bai01.vcxproj -> E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai01\Debug\Bai01.exe

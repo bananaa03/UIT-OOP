@@ -1,0 +1,7 @@
+﻿  Bai04.cpp
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai04\Bai04\Bai04.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai04\Bai04\Bai04.cpp(48,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai04\Bai04\Bai04.cpp(136,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai04\Bai04\Bai04.cpp(154,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai04\Bai04\Bai04.cpp(71): warning C4715: 'NhanVien::FindID': not all control paths return a value
+  Bai04.vcxproj -> E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi04\Bai04\Debug\Bai04.exe
