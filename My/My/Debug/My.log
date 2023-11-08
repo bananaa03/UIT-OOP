@@ -1,0 +1,5 @@
+﻿  My.cpp
+E:\IDE\My\My\My.cpp(179,7): warning C4101: 'a': unreferenced local variable
+E:\IDE\My\My\My.cpp(180,7): warning C4101: 'MSMA': unreferenced local variable
+E:\IDE\My\My\My.cpp(178,7): warning C4101: 'makh': unreferenced local variable
+  My.vcxproj -> E:\IDE\My\Debug\My.exe
