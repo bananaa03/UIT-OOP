@@ -1,0 +1,3 @@
+﻿  Bai01.cpp
+E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi02\Bai01\Bai01\Bai01.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai01.vcxproj -> E:\IDE\19_21520643_HuynhNgocBaoChau_Buoi02\Bai01\Debug\Bai01.exe
